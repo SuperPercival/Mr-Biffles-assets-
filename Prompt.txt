@@ -1,0 +1,4 @@
+I’m designing a momentum-based, bouncy platformer where the player can perform tricks (like spins, flips, grabs, or stunts) in midair. Tricks currently only increase speed, but I want them to be valuable even when the player has reached a set speed cap. The game should reward skillful, stylish, or risky tricks without making them mandatory for basic progression.
+
+Please brainstorm creative, varied incentives for performing tricks beyond just speed boosts. These incentives can affect gameplay, scoring, style systems, environment interaction, or player abilities. Include both short-term and long-term rewards. Try to balance mechanical benefits (e.g., unlocking temporary abilities) and cosmetic/score-based rewards (e.g., crowd reactions, style points). Aim for at least 10–15 unique ideas that would make tricks satisfying and strategically worthwhile while still keeping the game accessible.
+
